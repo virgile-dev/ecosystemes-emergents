@@ -1,0 +1,17 @@
+.fullscreen {
+  background-image: url("https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/16722784_10154031960917271_4156889439383123599_o.jpg?oh=d91986c2f2452df9bd6bbafb12b28f70&oe=593666FA");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+p,h1,h2,h3,h4,h5,h6 {
+  font-family: Montserrat;
+  color: #fff;
+}
+.container {
+  margin-top: 20%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+}
